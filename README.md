@@ -1,6 +1,11 @@
 # TaskForDIGISSQUARED
 Task for DIGIS SQUARED to get live data from Test API 
 
+
+```
+( MVVM, RxJava, dataBinding, retrofit2, MPAndroidChart, materialDesign )
+```
+
 ## Requirements
 ```
 1. Getting live data from Test API ().
