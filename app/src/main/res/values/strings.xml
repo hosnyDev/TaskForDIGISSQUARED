@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task For DIGIS SQUARED</string>
+    <string name="rsrq">RSRQ</string>
+    <string name="rsrp">RSRP</string>
+    <string name="sinr">SINR</string>
+    <string name="todo">TODO</string>
+    <string name="no_internet_connection">No Internet connection</string>
+    <string name="check_your_connection_then_refresh">Check your connection, then refresh.</string>
+    <string name="refresh">Refresh</string>
+</resources>
