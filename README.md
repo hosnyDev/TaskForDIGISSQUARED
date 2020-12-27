@@ -1,4 +1,4 @@
-# TaskForDIGISSQUARED
+# Task For DIGIS SQUARED
 Task for DIGIS SQUARED to get live data from Test API 
 
 
